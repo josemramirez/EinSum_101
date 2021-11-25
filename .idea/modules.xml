@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$USER_HOME$/DataspellProjects/.idea/DataspellProjects.iml" filepath="$USER_HOME$/DataspellProjects/.idea/DataspellProjects.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/Peiskos2020/Coursea2020/Deeplearning_2020/.idea/Deeplearning_2020.iml" filepath="$USER_HOME$/Desktop/Peiskos2020/Coursea2020/Deeplearning_2020/.idea/Deeplearning_2020.iml" />
+      <module fileurl="file://$USER_HOME$/DataspellProjects/InstaBot_101/.idea/InstaBot_101.iml" filepath="$USER_HOME$/DataspellProjects/InstaBot_101/.idea/InstaBot_101.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/TrafficProject/.idea/TrafficProject.iml" filepath="$USER_HOME$/PycharmProjects/TrafficProject/.idea/TrafficProject.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/traff1/dsProject/.idea/dsProject.iml" filepath="$USER_HOME$/PycharmProjects/traff1/dsProject/.idea/dsProject.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/nlp_101_v1/.idea/nlp_101_v1.iml" filepath="$USER_HOME$/PycharmProjects/nlp_101_v1/.idea/nlp_101_v1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/workspace.iml" filepath="$PROJECT_DIR$/.idea/workspace.iml" />
+    </modules>
+  </component>
+</project>
