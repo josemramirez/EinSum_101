@@ -3,11 +3,7 @@
   <component name="NewModuleRootManager">
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module" module-name="nlp_101_v1" />
     <orderEntry type="module" module-name="TrafficProject" />
     <orderEntry type="module" module-name="dsProject" />
-    <orderEntry type="module" module-name="InstaBot_101" />
-    <orderEntry type="module" module-name="DataspellProjects" />
-    <orderEntry type="module" module-name="Deeplearning_2020" />
   </component>
 </module>
